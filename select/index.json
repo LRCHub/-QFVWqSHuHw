@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tokojouzu",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-03-23T13:45:14.875132Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokojouzu",
+      "artist": "¥ellow Bucks",
+      "has_synced": false,
+      "path": "select/pl_01_Tokojouzu_¥ellow_Bucks.txt"
+    }
+  ]
+}
